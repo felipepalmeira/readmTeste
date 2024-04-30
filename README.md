@@ -6,7 +6,7 @@
 
 	Realizamos essa troca pois o binding é uma maneira mais eficaz de acesso a todas as views em um layout.
 
-
+<br>
 
 
 ## 2.evitar inserir um texto vazio na lista 
@@ -21,6 +21,7 @@ Essa melhoria foi implementada para evitar a inserção de um item vazio na list
 
 ```
 
+<br>
 
 ## 3. Caixa de confirmação de exclusão de produto da lista
 	
