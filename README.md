@@ -1,6 +1,8 @@
 # ListadeCompras
 
-## Integrantes do grupo:
+<br>
+
+<b>Integrantes do grupo:</b>
 
 - Anna Cristina             RM:94795 <br>
 - Arthur Cardoso             RM:93186 <br>
@@ -13,8 +15,11 @@
 - Rodrigo Ronchi             RM:93262 <br>
 - Yuri Gabriel Sales Silva     RM:96069 <br>
 
+<br>
 
+---
 
+<br> 
 
 # Melhorias feitas no código 
 
