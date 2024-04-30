@@ -1,3 +1,19 @@
+# ListadeCompras
+
+## Integrantes do grupo:
+
+- Anna Cristina             RM:94795 <br>
+- Arthur Cardoso             RM:93186 <br>
+- Felipe Palmeira         RM:92835 <br>
+- Isabella Fabre            RM:88726 <br>
+- Luauberth Sampaio          RM:96260 <br>
+- Nicolas Ormart            RM:95016 <br>
+- Nicole Ricci de Souza        RM:96154 <br>
+- Roberta Costa             RM:93803 <br>
+- Rodrigo Ronchi             RM:93262 <br>
+- Yuri Gabriel Sales Silva     RM:96069 <br>
+
+
 
 
 # Melhorias feitas no código 
