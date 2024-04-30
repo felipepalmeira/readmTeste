@@ -25,7 +25,7 @@
 
 ## 1. Trocar o "findViewById" por "binding"
 
-	Realizamos essa troca pois o binding é uma maneira mais eficaz de acesso a todas as views em um layout.
+Realizamos essa troca pois o binding é uma maneira mais eficaz de acesso a todas as views em um layout.
 
 <br>
 
