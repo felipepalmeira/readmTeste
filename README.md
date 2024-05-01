@@ -4,16 +4,19 @@
 
 <b>Integrantes do grupo:</b>
 
-- Anna Cristina             RM:94795 <br>
-- Arthur Cardoso             RM:93186 <br>
-- Felipe Palmeira         RM:92835 <br>
-- Isabella Fabre            RM:88726 <br>
-- Luauberth Sampaio          RM:96260 <br>
-- Nicolas Ormart            RM:95016 <br>
-- Nicole Ricci de Souza        RM:96154 <br>
-- Roberta Costa             RM:93803 <br>
-- Rodrigo Ronchi             RM:93262 <br>
-- Yuri Gabriel Sales Silva     RM:96069 <br>
+| Nome              | RM       |
+|-------------------|----------|
+| Anna Cristina     | 94795    | 
+| Arthur Cardoso    | 93186    | 
+| Felipe Palmeira   | 92835    | 
+| Isabella Fabre    | 88726    | 
+| Luauberth Sampaio | 96260    | 
+| Nicolas Ormart    | 95016    | 
+| Roberta Costa     | 93803    | 
+| Rodrigo Ronchi    | 93262    | 
+| Nicole Ricci      | 96154    | 
+| Yuri G. Sales     | 96069    | 
+
 
 <br>
 
